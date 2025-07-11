@@ -1,10 +1,6 @@
-## 🌿 Premium Skincare Landing Page
+# 🌿 Premium Skincare Landing Page
 
 A modern, responsive skincare e-commerce landing page built with React, TypeScript, Tailwind CSS, and GSAP animations.
-
-## 🚀 Live Demo
-
-**[View Live Site](https://deploy-url-will-be-shown-here)**
 
 ## ✨ Features
 
